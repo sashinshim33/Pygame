@@ -1,9 +1,7 @@
 import pygame
 
 """
-Apparently pygame creators prefer that people do this like big comment thing right here. 
-This project took so long, i think I grew a second butt, like i understand why people drink coffee from doing this project.
-I dont plan on publishing this as I did use AI and i did take ideas from others. for help so its not all original, it will be in the acknowledgement
+
 
 """
 
