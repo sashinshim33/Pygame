@@ -25,13 +25,10 @@ I would like to acknowledge the assistance provided by ChatGPT for bug fixes in 
 Useful Links
 
 Pygame Documentation
- – official documentation for Pygame.
+https://www.pygame.org/docs/
 
 Python Documentation
- – Python official reference.
-
-GitHub Docs
- – to help with repository management and version control.
+https://docs.python.org/3/
 
 Python Programming Tutorials
- – tutorials and guides for Python development.
+https://realpython.com/
