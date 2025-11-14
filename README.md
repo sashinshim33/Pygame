@@ -8,7 +8,7 @@ The completed project demonstrates my ability to structure code, manage game obj
 
 A demonstration of the software running and a walkthrough of the code can be found here:
 
-Software Demo Video
+[https://www.youtube.com/watch?v=v-lpXfGOIis](url)
 
 Development Environment
 
